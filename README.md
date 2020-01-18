@@ -1,7 +1,7 @@
 # stage2_homework
 ## 阶段二：SpringBoot框架应用（2020/02/07）
 ### 作业题目
-	基于SpringBoot，集成Druid、logback，使用JDBC实现数据表操作
+	基于'Springboot'，集成Druid、logback，使用JDBC实现数据表操作
 作业要求:
     1.创建Maven项目
     2.使用 SpringBoot集成 Druid、logback

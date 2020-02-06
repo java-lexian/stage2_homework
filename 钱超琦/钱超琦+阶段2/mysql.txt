@@ -1,0 +1,14 @@
+CREATE DATABASE `homework`;
+
+USE `homework`;
+
+DROP TABLE IF EXISTS `user`;
+
+CREATE TABLE `user` (
+  `id` int(20) NOT NULL,
+  `name` varchar(30) DEFAULT NULL,
+  `pwd` varchar(30) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+insert  into `user`(`id`,`name`,`pwd`) values (1,'张三','123456'),(2,'李四','abcdef'),(3,'王五','987654');

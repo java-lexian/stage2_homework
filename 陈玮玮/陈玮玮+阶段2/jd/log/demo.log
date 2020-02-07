@@ -1,0 +1,4 @@
+2020-02-06 20:18:34,583 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on dell-pc with PID 17156 (started by dell in D:\研究生\研一\项目实训\hanjia\stage2\jd)
+2020-02-06 20:18:34,643 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2020-02-06 20:18:34,645 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-02-06 20:18:48,673 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 18.588 seconds (JVM running for 21.638)
